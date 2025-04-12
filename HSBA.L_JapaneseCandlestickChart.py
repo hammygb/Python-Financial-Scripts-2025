@@ -1,4 +1,4 @@
-# Python Script Name: HSBA.L_yahooquery_stockHistory_tkinter.py
+# Python Script Name: HSBA.L_JapaneseCandlestickChart.py
 # PyScripter Version: 5.0.1.0 x 64
 # Python Version: 3.11.8
 
