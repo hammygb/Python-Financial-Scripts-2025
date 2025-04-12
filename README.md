@@ -1,4 +1,4 @@
-I have created this 'Python-Financial-Scripts-2025' repository to provide financial scripts examples relating to the stock market.  I am using the Yahoo Finance website to keep track of stocks and the dividendmax website for accurate historical dividend data.
+I have created this 'Python-Financial-Scripts-2025' repository to provide financial scripts examples relating to the stock market.  I am using the Yahoo Finance website to keep track of a stocks history and the dividendmax website for obtaining accurate historical dividend data.
 
 I will be covering different financial areas like Japanese Candlesticks, Simple Moving Averages, and Fibonacci Retracement etc.
 
