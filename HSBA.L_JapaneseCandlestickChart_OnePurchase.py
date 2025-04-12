@@ -1,3 +1,7 @@
+# Python Script Name: HSBA.L_JapaneseCandlestickChart_OnePurchase.py
+# PyScripter Version: 5.0.1.0 x 64
+# Python Version: 3.11.8
+
 import matplotlib.pyplot as plt
 from mplfinance.original_flavor import candlestick_ohlc
 import pandas as pd
