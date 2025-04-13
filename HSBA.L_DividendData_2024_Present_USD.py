@@ -1,3 +1,7 @@
+# Python Script Name: HSBA.L_DividendData_2024_Present_USD.py
+# PyScripter IDE Version: 5.0.1.0 x 64
+# Python Version: 3.11.8
+
 import csv
 import os
 
